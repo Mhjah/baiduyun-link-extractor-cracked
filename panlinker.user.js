@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name              网盘直链下载助手
+// @name              不扫妈-网盘直链下载助手
 // @namespace         https://github.com/syhyz1990/baiduyun
 // @version           6.1.5
 // @author            YouXiaoHou
 // @description       👆👆👆👆👆👆👆 - 支持批量获取 ✅百度网盘 ✅阿里云盘 ✅天翼云盘 ✅迅雷云盘 ✅夸克网盘 ✅移动云盘 六大网盘的直链下载地址，配合 IDM，Xdown，Aria2，Curl，比特彗星等工具高效🚀🚀🚀下载，完美适配 Chrome，Edge，FireFox，360，QQ，搜狗，百分，遨游，星愿，Opera，猎豹，Vivaldi，Yandex，Kiwi 等 18 种浏览器。可在无法安装客户端的环境下使用，助手免费开源。😎
 // @license           AGPL-3.0-or-later
-// @homepage          https://www.youxiaohou.com/install.html
+// @homepage          https://www.youxiaohou.萎信扫妈/install.html
 // @supportURL        https://github.com/syhyz1990/baiduyun
-// @updateURL         https://www.youxiaohou.com/panlinker.user.js
-// @downloadURL       https://www.youxiaohou.com/panlinker.user.js
+// @updateURL         https://www.youxiaohou.萎信扫妈/panlinker.user.js
+// @downloadURL       https://www.youxiaohou.萎信扫妈/panlinker.user.js
 // @match             *://pan.baidu.com/disk/home*
 // @match             *://yun.baidu.com/disk/home*
 // @match             *://pan.baidu.com/disk/main*
